@@ -1,0 +1,3 @@
+const fetchNotes = async () => {};
+
+fetchNotes();
